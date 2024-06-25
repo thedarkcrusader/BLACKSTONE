@@ -96,9 +96,7 @@
 
 	//Rogue Slots /////////////////////////////////
 
-	grain = new /atom/movable/screen/grain
-	grain.hud = src
-	static_inventory += grain
+
 
 
 	reads = new /atom/movable/screen/read

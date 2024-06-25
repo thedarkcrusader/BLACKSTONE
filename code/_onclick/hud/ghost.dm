@@ -128,8 +128,6 @@
 	using =  new /atom/movable/screen/backhudl/ghost()
 	using.hud = src
 	static_inventory += using
-
-	using = new /atom/movable/screen/grain
 	using.hud = src
 	static_inventory += using
 
@@ -194,7 +192,6 @@
 	using.hud = src
 	static_inventory += using
 
-	using = new /atom/movable/screen/grain
 	using.hud = src
 	static_inventory += using
 
@@ -228,7 +225,6 @@
 	using.hud = src
 	static_inventory += using
 
-	using = new /atom/movable/screen/grain
 	using.hud = src
 	static_inventory += using
 
