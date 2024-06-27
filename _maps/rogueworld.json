@@ -6,5 +6,6 @@
 	"minetype": null,
 	"space_empty_levels": 0,
 	"space_ruin_levels": 0,
-	"shuttles": {}
+	"shuttles": {},
+	"jobpaths": {/datum/job/fighter, /datum/job/blackstone}
 }

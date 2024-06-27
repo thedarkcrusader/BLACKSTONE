@@ -1,4 +1,4 @@
-/datum/job/roguetown/knight
+/datum/job/blackstone/knight
 	title = "Knight"
 	flag = KNIGHT
 	department_flag = NOBLEMEN
@@ -19,7 +19,7 @@
 
 	cmode_music = 'sound/music/combat_guard2.ogg'
 
-/datum/job/roguetown/knight/after_spawn(mob/living/L, mob/M, latejoin = TRUE)
+/datum/job/blackstone/knight/after_spawn(mob/living/L, mob/M, latejoin = TRUE)
 	..()
 	if(ishuman(L))
 		var/mob/living/carbon/human/H = L

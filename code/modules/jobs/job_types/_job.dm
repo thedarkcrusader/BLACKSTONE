@@ -123,7 +123,6 @@
 
 	/// This job is immune to species-based swapped gender locks
 	var/immune_to_genderswap = FALSE
-
 /*
 	How this works, its CTAG_DEFINE = amount_to_attempt_to_role 
 	EX: advclass_cat_rolls = list(CTAG_PILGRIM = 5, CTAG_ADVENTURER = 5)

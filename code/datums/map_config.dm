@@ -21,6 +21,7 @@
 	var/traits = null
 	var/space_ruin_levels = 7
 	var/space_empty_levels = 1
+	var/list/jobpaths = list()
 
 	var/minetype = "lavaland"
 
